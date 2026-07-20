@@ -1,0 +1,44 @@
+[
+  {
+    "team_id": "deboccery",
+    "captain": "Bill Schnitker",
+    "paid": true,
+    "paid_date": null
+  },
+  {
+    "team_id": "wu-tang-balls",
+    "captain": "Sean Baijnauth",
+    "paid": true,
+    "paid_date": null
+  },
+  {
+    "team_id": "new-kids-on-the-bocce",
+    "captain": "Joelle Sterbens",
+    "paid": true,
+    "paid_date": null
+  },
+  {
+    "team_id": "bocce-tuah",
+    "captain": "Bobby Johnson",
+    "paid": true,
+    "paid_date": null
+  },
+  {
+    "team_id": "john-does",
+    "captain": "Aaron Stovall",
+    "paid": true,
+    "paid_date": null
+  },
+  {
+    "team_id": "old-pikes",
+    "captain": "Dan Devere",
+    "paid": true,
+    "paid_date": null
+  },
+  {
+    "team_id": "strategic-miss-rolls",
+    "captain": "Mikayla Moore",
+    "paid": true,
+    "paid_date": null
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "season": "2025-2026",
+  "session1_start": "2025-09-03",
+  "session1_end": "2025-11-19",
+  "break_start": "2025-11-26",
+  "break_end": "2026-01-06",
+  "session2_start": "2026-01-07",
+  "session2_end": "2026-03-04",
+  "playoff_night1": "2026-03-10",
+  "playoff_night2": "2026-03-11",
+  "blackout_dates": [],
+  "game_times": [
+    "6:00 PM",
+    "7:00 PM",
+    "8:00 PM"
+  ]
+}

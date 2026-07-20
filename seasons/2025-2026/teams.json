@@ -1,0 +1,44 @@
+[
+  {
+    "id": "deboccery",
+    "name": "DeBoccery",
+    "captain": "Bill Schnitker",
+    "email": "bswillclark@yahoo.com"
+  },
+  {
+    "id": "wu-tang-balls",
+    "name": "Wu-Tang Balls",
+    "captain": "Sean Baijnauth",
+    "email": "sbaijnauth@gmail.com"
+  },
+  {
+    "id": "new-kids-on-the-bocce",
+    "name": "New Kids on the Bocce",
+    "captain": "Joelle Sterbens",
+    "email": "jmsterbens@gmail.com"
+  },
+  {
+    "id": "bocce-tuah",
+    "name": "Bocce-Tuah",
+    "captain": "Bobby Johnson",
+    "email": "bobby.johnson@schwab.com"
+  },
+  {
+    "id": "john-does",
+    "name": "John Does",
+    "captain": "Aaron Stovall",
+    "email": "aaronstovall@me.com"
+  },
+  {
+    "id": "old-pikes",
+    "name": "Old Pikes",
+    "captain": "Dan Devere",
+    "email": "ddevere7@gmail.com"
+  },
+  {
+    "id": "strategic-miss-rolls",
+    "name": "Strategic Miss Rolls",
+    "captain": "Mikayla Moore",
+    "email": "mikayla.m.moore@gmail.com"
+  }
+]
