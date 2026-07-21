@@ -430,7 +430,7 @@
         "slot": "6:00 PM",
         "team1": "Old Pikes",
         "team2": "John Does",
-        "approved": true,
+        "approved": false,
         "scorecard_image_url": null
       },
       {
