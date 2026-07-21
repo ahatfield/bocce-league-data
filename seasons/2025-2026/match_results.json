@@ -19,8 +19,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -44,8 +44,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -69,8 +69,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -115,8 +115,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -140,8 +140,8 @@
         "team2_score": 6
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -165,8 +165,8 @@
         "team2_score": 1
       }
     ],
-    "team1_match_points": 4.0,
-    "team2_match_points": 0.0,
+    "team1_match_points": 4,
+    "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
   },
@@ -190,8 +190,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -207,16 +207,16 @@
         "team2_score": 5
       },
       {
-        "team1_score": 2,
+        "team1_score": 4,
         "team2_score": 7
       },
       {
-        "team1_score": 3,
+        "team1_score": 2,
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -240,8 +240,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 0.0,
-    "team2_match_points": 4.0,
+    "team1_match_points": 0,
+    "team2_match_points": 4,
     "split": false,
     "scorecard_image_url": null
   },
@@ -265,8 +265,8 @@
         "team2_score": 5
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -315,8 +315,8 @@
         "team2_score": 2
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -340,8 +340,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 0.0,
-    "team2_match_points": 4.0,
+    "team1_match_points": 0,
+    "team2_match_points": 4,
     "split": false,
     "scorecard_image_url": null
   },
@@ -365,8 +365,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -390,8 +390,8 @@
         "team2_score": 6
       }
     ],
-    "team1_match_points": 4.0,
-    "team2_match_points": 0.0,
+    "team1_match_points": 4,
+    "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
   },
@@ -465,8 +465,8 @@
         "team2_score": 1
       }
     ],
-    "team1_match_points": 4.0,
-    "team2_match_points": 0.0,
+    "team1_match_points": 4,
+    "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
   },
@@ -490,8 +490,8 @@
         "team2_score": 5
       }
     ],
-    "team1_match_points": 4.0,
-    "team2_match_points": 0.0,
+    "team1_match_points": 4,
+    "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
   },
@@ -515,8 +515,8 @@
         "team2_score": 5
       }
     ],
-    "team1_match_points": 4.0,
-    "team2_match_points": 0.0,
+    "team1_match_points": 4,
+    "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
   },
@@ -540,8 +540,8 @@
         "team2_score": 4
       }
     ],
-    "team1_match_points": 4.0,
-    "team2_match_points": 0.0,
+    "team1_match_points": 4,
+    "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
   },
@@ -565,8 +565,8 @@
         "team2_score": 0
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -590,8 +590,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 0.0,
-    "team2_match_points": 4.0,
+    "team1_match_points": 0,
+    "team2_match_points": 4,
     "split": false,
     "scorecard_image_url": null
   },
@@ -615,8 +615,8 @@
         "team2_score": 5
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -640,8 +640,8 @@
         "team2_score": 2
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -665,8 +665,8 @@
         "team2_score": 6
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -690,8 +690,8 @@
         "team2_score": 3
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -715,8 +715,8 @@
         "team2_score": 3
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -740,8 +740,8 @@
         "team2_score": 4
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -765,8 +765,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -790,8 +790,8 @@
         "team2_score": 2
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -815,8 +815,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 0.0,
-    "team2_match_points": 4.0,
+    "team1_match_points": 0,
+    "team2_match_points": 4,
     "split": false,
     "scorecard_image_url": null
   },
@@ -865,8 +865,8 @@
         "team2_score": 10
       }
     ],
-    "team1_match_points": 0.0,
-    "team2_match_points": 4.0,
+    "team1_match_points": 0,
+    "team2_match_points": 4,
     "split": false,
     "scorecard_image_url": null
   },
@@ -890,8 +890,8 @@
         "team2_score": 3
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -915,8 +915,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -940,8 +940,8 @@
         "team2_score": 0
       }
     ],
-    "team1_match_points": 4.0,
-    "team2_match_points": 0.0,
+    "team1_match_points": 4,
+    "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
   },
@@ -965,8 +965,8 @@
         "team2_score": 1
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -990,8 +990,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1015,8 +1015,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 0.0,
-    "team2_match_points": 4.0,
+    "team1_match_points": 0,
+    "team2_match_points": 4,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1040,8 +1040,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 0.0,
-    "team2_match_points": 4.0,
+    "team1_match_points": 0,
+    "team2_match_points": 4,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1065,8 +1065,8 @@
         "team2_score": 1
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1090,8 +1090,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1115,8 +1115,8 @@
         "team2_score": 2
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1140,8 +1140,8 @@
         "team2_score": 0
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1165,8 +1165,8 @@
         "team2_score": 4
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1190,8 +1190,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1215,8 +1215,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1240,8 +1240,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1265,8 +1265,8 @@
         "team2_score": 2
       }
     ],
-    "team1_match_points": 4.0,
-    "team2_match_points": 0.0,
+    "team1_match_points": 4,
+    "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1290,8 +1290,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1340,8 +1340,8 @@
         "team2_score": 5
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1351,24 +1351,12 @@
     "slot": "6:00 PM",
     "team1": "DeBoccery",
     "team2": "Bocce-Tuah",
-    "games": [
-      {
-        "team1_score": 1,
-        "team2_score": 7
-      },
-      {
-        "team1_score": 4,
-        "team2_score": 1
-      },
-      {
-        "team1_score": 6,
-        "team2_score": 3
-      }
-    ],
-    "team1_match_points": 2.5,
-    "team2_match_points": 1.5,
+    "games": [],
+    "team1_match_points": 3.5,
+    "team2_match_points": 0.5,
     "split": false,
-    "scorecard_image_url": null
+    "scorecard_image_url": null,
+    "note": "Scan physically damaged (ink smear) for this match. Commissioner ruling: match points are DeBoccery 3.5, Bocce-Tuah 0.5 (sums to 4, the correct legal value); the earlier 2.5/1.5 reading was a misread of the smeared cell. Individual game scores could not be recovered from the scan, so games is left empty."
   },
   {
     "week": 19,
@@ -1402,8 +1390,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 0.0,
-    "team2_match_points": 4.0,
+    "team1_match_points": 0,
+    "team2_match_points": 4,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1427,8 +1415,8 @@
         "team2_score": 1
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1477,8 +1465,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1502,8 +1490,8 @@
         "team2_score": 1
       }
     ],
-    "team1_match_points": 3.0,
-    "team2_match_points": 1.0,
+    "team1_match_points": 3,
+    "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1527,8 +1515,8 @@
         "team2_score": 7
       }
     ],
-    "team1_match_points": 1.0,
-    "team2_match_points": 3.0,
+    "team1_match_points": 1,
+    "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": null
   },
@@ -1552,8 +1540,8 @@
         "team2_score": 4
       }
     ],
-    "team1_match_points": 4.0,
-    "team2_match_points": 0.0,
+    "team1_match_points": 4,
+    "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
   }
