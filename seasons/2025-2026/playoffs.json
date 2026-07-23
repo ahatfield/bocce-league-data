@@ -90,8 +90,8 @@
       {
         "slot": "8:00 PM",
         "label": "Championship",
-        "team1": null,
-        "team2": null,
+        "team1": "Old Pikes",
+        "team2": "John Does",
         "winner": null,
         "approved": false,
         "scorecard_image_url": null
@@ -99,8 +99,8 @@
       {
         "slot": "After 8:00 PM",
         "label": "3rd Place Game",
-        "team1": null,
-        "team2": null,
+        "team1": "Wu-Tang Balls",
+        "team2": "New Kids on the Bocce",
         "winner": null,
         "approved": false,
         "scorecard_image_url": null
