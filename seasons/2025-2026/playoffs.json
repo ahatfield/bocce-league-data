@@ -58,8 +58,8 @@
         "seed2": 5,
         "team1": "Old Pikes",
         "team2": "DeBoccery",
-        "winner": null,
-        "approved": false,
+        "winner": "Old Pikes",
+        "approved": true,
         "scorecard_image_url": null
       }
     ],
@@ -72,8 +72,8 @@
       {
         "slot": "6:00 PM",
         "label": "Semifinal: #1 seed vs Winner Game 3",
-        "team1": null,
-        "team2": null,
+        "team1": "Wu-Tang Balls",
+        "team2": "Old Pikes",
         "winner": null,
         "approved": false,
         "scorecard_image_url": null
@@ -81,8 +81,8 @@
       {
         "slot": "7:00 PM",
         "label": "Semifinal: Winner Game 1 vs Winner Game 2",
-        "team1": null,
-        "team2": null,
+        "team1": "New Kids on the Bocce",
+        "team2": "John Does",
         "winner": null,
         "approved": false,
         "scorecard_image_url": null
