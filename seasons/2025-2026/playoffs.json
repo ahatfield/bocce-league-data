@@ -1,0 +1,110 @@
+{
+  "seeding": [
+    {
+      "seed": 1,
+      "team": "Wu-Tang Balls"
+    },
+    {
+      "seed": 2,
+      "team": "New Kids on the Bocce"
+    },
+    {
+      "seed": 3,
+      "team": "John Does"
+    },
+    {
+      "seed": 4,
+      "team": "Old Pikes"
+    },
+    {
+      "seed": 5,
+      "team": "DeBoccery"
+    },
+    {
+      "seed": 6,
+      "team": "Bocce-Tuah"
+    },
+    {
+      "seed": 7,
+      "team": "Strategic Miss Rolls"
+    }
+  ],
+  "night1": {
+    "date": "2026-03-10",
+    "matches": [
+      {
+        "slot": "6:00 PM",
+        "seed1": 2,
+        "seed2": 7,
+        "team1": "New Kids on the Bocce",
+        "team2": "Strategic Miss Rolls",
+        "winner": null,
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "seed1": 3,
+        "seed2": 6,
+        "team1": "John Does",
+        "team2": "Bocce-Tuah",
+        "winner": null,
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "seed1": 4,
+        "seed2": 5,
+        "team1": "Old Pikes",
+        "team2": "DeBoccery",
+        "winner": null,
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ],
+    "bye_seed": 1,
+    "bye_team": "Wu-Tang Balls"
+  },
+  "night2": {
+    "date": "2026-03-11",
+    "matches": [
+      {
+        "slot": "6:00 PM",
+        "label": "Semifinal: #1 seed vs Winner Game 3",
+        "team1": null,
+        "team2": null,
+        "winner": null,
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "label": "Semifinal: Winner Game 1 vs Winner Game 2",
+        "team1": null,
+        "team2": null,
+        "winner": null,
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "label": "Championship",
+        "team1": null,
+        "team2": null,
+        "winner": null,
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "After 8:00 PM",
+        "label": "3rd Place Game",
+        "team1": null,
+        "team2": null,
+        "winner": null,
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  }
+}
