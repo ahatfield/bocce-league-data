@@ -102,8 +102,9 @@
         "team1": "Wu-Tang Balls",
         "team2": "New Kids on the Bocce",
         "winner": null,
-        "approved": false,
-        "scorecard_image_url": null
+        "approved": true,
+        "scorecard_image_url": null,
+        "tied": true
       }
     ]
   }
