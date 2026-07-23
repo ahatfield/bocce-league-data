@@ -38,8 +38,8 @@
         "seed2": 7,
         "team1": "New Kids on the Bocce",
         "team2": "Strategic Miss Rolls",
-        "winner": null,
-        "approved": false,
+        "winner": "New Kids on the Bocce",
+        "approved": true,
         "scorecard_image_url": null
       },
       {
