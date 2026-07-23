@@ -74,8 +74,8 @@
         "label": "Semifinal: #1 seed vs Winner Game 3",
         "team1": "Wu-Tang Balls",
         "team2": "Old Pikes",
-        "winner": null,
-        "approved": false,
+        "winner": "Old Pikes",
+        "approved": true,
         "scorecard_image_url": null
       },
       {
