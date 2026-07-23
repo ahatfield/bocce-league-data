@@ -92,8 +92,8 @@
         "label": "Championship",
         "team1": "Old Pikes",
         "team2": "John Does",
-        "winner": null,
-        "approved": false,
+        "winner": "John Does",
+        "approved": true,
         "scorecard_image_url": null
       },
       {
