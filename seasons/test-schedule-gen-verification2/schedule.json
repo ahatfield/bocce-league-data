@@ -1,0 +1,632 @@
+[
+  {
+    "week": 1,
+    "date": "2025-09-03",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team B",
+    "slots": [
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team F",
+        "team2": "Test Team G",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team A",
+        "team2": "Test Team C",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team E",
+        "team2": "Test Team D",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "date": "2025-09-10",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team D",
+    "slots": [
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team C",
+        "team2": "Test Team E",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team G",
+        "team2": "Test Team A",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team B",
+        "team2": "Test Team F",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "date": "2025-09-17",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team E",
+    "slots": [
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team D",
+        "team2": "Test Team A",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team C",
+        "team2": "Test Team F",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team G",
+        "team2": "Test Team B",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "date": "2025-09-24",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team F",
+    "slots": [
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team A",
+        "team2": "Test Team B",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team E",
+        "team2": "Test Team G",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team D",
+        "team2": "Test Team C",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "date": "2025-10-01",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team A",
+    "slots": [
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team E",
+        "team2": "Test Team F",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team D",
+        "team2": "Test Team B",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team C",
+        "team2": "Test Team G",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "date": "2025-10-08",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team G",
+    "slots": [
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team B",
+        "team2": "Test Team C",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team F",
+        "team2": "Test Team D",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team A",
+        "team2": "Test Team E",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "date": "2025-10-15",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team C",
+    "slots": [
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team G",
+        "team2": "Test Team D",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team B",
+        "team2": "Test Team E",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team F",
+        "team2": "Test Team A",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "date": "2025-10-22",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team F",
+    "slots": [
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team C",
+        "team2": "Test Team G",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team B",
+        "team2": "Test Team A",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team D",
+        "team2": "Test Team E",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "date": "2025-10-29",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team G",
+    "slots": [
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team F",
+        "team2": "Test Team A",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team C",
+        "team2": "Test Team E",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team B",
+        "team2": "Test Team D",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "date": "2025-11-05",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team A",
+    "slots": [
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team G",
+        "team2": "Test Team E",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team F",
+        "team2": "Test Team D",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team C",
+        "team2": "Test Team B",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "date": "2025-11-12",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team D",
+    "slots": [
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team E",
+        "team2": "Test Team B",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team A",
+        "team2": "Test Team C",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team G",
+        "team2": "Test Team F",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "date": "2025-11-19",
+    "session": 1,
+    "status": "scheduled",
+    "bye": "Test Team E",
+    "slots": [
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team A",
+        "team2": "Test Team D",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team G",
+        "team2": "Test Team B",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team F",
+        "team2": "Test Team C",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 13,
+    "date": "2026-01-07",
+    "session": 2,
+    "status": "scheduled",
+    "bye": "Test Team C",
+    "slots": [
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team B",
+        "team2": "Test Team F",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team D",
+        "team2": "Test Team G",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team E",
+        "team2": "Test Team A",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 14,
+    "date": "2026-01-14",
+    "session": 2,
+    "status": "scheduled",
+    "bye": "Test Team B",
+    "slots": [
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team D",
+        "team2": "Test Team C",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team E",
+        "team2": "Test Team F",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team A",
+        "team2": "Test Team G",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 15,
+    "date": "2026-01-21",
+    "session": 2,
+    "status": "scheduled",
+    "bye": "Test Team F",
+    "slots": [
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team A",
+        "team2": "Test Team C",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team B",
+        "team2": "Test Team E",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team G",
+        "team2": "Test Team D",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 16,
+    "date": "2026-01-28",
+    "session": 2,
+    "status": "scheduled",
+    "bye": "Test Team B",
+    "slots": [
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team G",
+        "team2": "Test Team A",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team D",
+        "team2": "Test Team F",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team E",
+        "team2": "Test Team C",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 17,
+    "date": "2026-02-04",
+    "session": 2,
+    "status": "scheduled",
+    "bye": "Test Team D",
+    "slots": [
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team E",
+        "team2": "Test Team G",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team C",
+        "team2": "Test Team B",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team F",
+        "team2": "Test Team A",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 18,
+    "date": "2026-02-11",
+    "session": 2,
+    "status": "scheduled",
+    "bye": "Test Team G",
+    "slots": [
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team D",
+        "team2": "Test Team B",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team E",
+        "team2": "Test Team A",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team C",
+        "team2": "Test Team F",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 19,
+    "date": "2026-02-18",
+    "session": 2,
+    "status": "scheduled",
+    "bye": "Test Team A",
+    "slots": [
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team B",
+        "team2": "Test Team F",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team G",
+        "team2": "Test Team C",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team D",
+        "team2": "Test Team E",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 20,
+    "date": "2026-02-25",
+    "session": 2,
+    "status": "scheduled",
+    "bye": "Test Team C",
+    "slots": [
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team F",
+        "team2": "Test Team E",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team A",
+        "team2": "Test Team D",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team B",
+        "team2": "Test Team G",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  },
+  {
+    "week": 21,
+    "date": "2026-03-04",
+    "session": 2,
+    "status": "scheduled",
+    "bye": "Test Team E",
+    "slots": [
+      {
+        "slot": "8:00 PM",
+        "team1": "Test Team C",
+        "team2": "Test Team D",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "6:00 PM",
+        "team1": "Test Team F",
+        "team2": "Test Team G",
+        "approved": false,
+        "scorecard_image_url": null
+      },
+      {
+        "slot": "7:00 PM",
+        "team1": "Test Team A",
+        "team2": "Test Team B",
+        "approved": false,
+        "scorecard_image_url": null
+      }
+    ]
+  }
+]
