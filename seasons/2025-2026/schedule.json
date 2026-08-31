@@ -423,28 +423,28 @@
     "week": 15,
     "date": "2026-01-21",
     "session": 2,
-    "status": "scheduled",
+    "status": "complete",
     "bye": "New Kids on the Bocce",
     "slots": [
       {
         "slot": "6:00 PM",
         "team1": "Old Pikes",
         "team2": "John Does",
-        "approved": false,
+        "approved": true,
         "scorecard_image_url": null
       },
       {
         "slot": "7:00 PM",
         "team1": "DeBoccery",
         "team2": "Wu-Tang Balls",
-        "approved": false,
+        "approved": true,
         "scorecard_image_url": null
       },
       {
         "slot": "8:00 PM",
         "team1": "Bocce-Tuah",
         "team2": "Strategic Miss Rolls",
-        "approved": false,
+        "approved": true,
         "scorecard_image_url": null
       }
     ]
