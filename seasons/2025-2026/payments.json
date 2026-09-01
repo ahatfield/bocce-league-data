@@ -26,7 +26,7 @@
   {
     "team_id": "john-does",
     "captain": "Aaron Stovall",
-    "paid": true,
+    "paid": false,
     "paid_date": null
   },
   {
