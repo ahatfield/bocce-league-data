@@ -20,7 +20,7 @@
   {
     "team_id": "bocce-tuah",
     "captain": "Bobby Johnson",
-    "paid": true,
+    "paid": false,
     "paid_date": null
   },
   {
