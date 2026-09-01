@@ -1544,5 +1544,80 @@
     "team2_match_points": 0,
     "split": false,
     "scorecard_image_url": null
+  },
+  {
+    "week": 15,
+    "date": "2026-01-21",
+    "slot": "6:00 PM",
+    "team1": "Old Pikes",
+    "team2": "John Does",
+    "games": [
+      {
+        "team1_score": 1,
+        "team2_score": 1
+      },
+      {
+        "team1_score": 0.5,
+        "team2_score": 0.5
+      },
+      {
+        "team1_score": 0,
+        "team2_score": 0
+      }
+    ],
+    "team1_match_points": 2,
+    "team2_match_points": 2,
+    "split": false,
+    "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2025-2026/scorecards/week-15.jpg"
+  },
+  {
+    "week": 15,
+    "date": "2026-01-21",
+    "slot": "7:00 PM",
+    "team1": "DeBoccery",
+    "team2": "Wu-Tang Balls",
+    "games": [
+      {
+        "team1_score": 1,
+        "team2_score": 1
+      },
+      {
+        "team1_score": 1,
+        "team2_score": 1
+      },
+      {
+        "team1_score": 1,
+        "team2_score": 1
+      }
+    ],
+    "team1_match_points": 2,
+    "team2_match_points": 2,
+    "split": false,
+    "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2025-2026/scorecards/week-15.jpg"
+  },
+  {
+    "week": 15,
+    "date": "2026-01-21",
+    "slot": "8:00 PM",
+    "team1": "Bocce-Tuah",
+    "team2": "Strategic Miss Rolls",
+    "games": [
+      {
+        "team1_score": 1,
+        "team2_score": 1
+      },
+      {
+        "team1_score": 1,
+        "team2_score": 1
+      },
+      {
+        "team1_score": 1,
+        "team2_score": 1
+      }
+    ],
+    "team1_match_points": 2,
+    "team2_match_points": 2,
+    "split": false,
+    "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2025-2026/scorecards/week-15.jpg"
   }
 ]
