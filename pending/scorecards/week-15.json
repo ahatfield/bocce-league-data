@@ -1,0 +1,23 @@
+{
+  "week": 15,
+  "date": "2026-01-21",
+  "matches": [
+    {
+      "slot": "6:00 PM",
+      "team1": "Old Pikes",
+      "team2": "John Does"
+    },
+    {
+      "slot": "7:00 PM",
+      "team1": "DeBoccery",
+      "team2": "Wu-Tang Balls"
+    },
+    {
+      "slot": "8:00 PM",
+      "team1": "Bocce-Tuah",
+      "team2": "Strategic Miss Rolls"
+    }
+  ],
+  "image_path": "pending/scorecards/week-15.jpg",
+  "submitted_at": "2026-09-01T20:34:41.950Z"
+}
