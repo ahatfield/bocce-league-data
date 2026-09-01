@@ -2,7 +2,7 @@
   {
     "team_id": "deboccery",
     "captain": "Bill Schnitker",
-    "paid": true,
+    "paid": false,
     "paid_date": null
   },
   {
