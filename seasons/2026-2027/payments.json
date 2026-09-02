@@ -8,8 +8,8 @@
   {
     "team_id": "wu-tang-balls",
     "captain": "Sean Baijnauth",
-    "paid": false,
-    "paid_date": null
+    "paid": true,
+    "paid_date": "2026-09-02"
   },
   {
     "team_id": "new-kids-on-the-bocce",
