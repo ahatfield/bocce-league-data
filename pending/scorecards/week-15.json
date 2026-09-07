@@ -1,0 +1,23 @@
+{
+  "week": 15,
+  "date": "2027-01-20",
+  "matches": [
+    {
+      "slot": "6:00 PM",
+      "team1": "Old Pikes",
+      "team2": "DeBoccery"
+    },
+    {
+      "slot": "7:00 PM",
+      "team1": "Bocce-Tuah",
+      "team2": "Strategic Miss Rolls"
+    },
+    {
+      "slot": "8:00 PM",
+      "team1": "New Kids on the Bocce",
+      "team2": "Wu-Tang Balls"
+    }
+  ],
+  "image_path": "pending/scorecards/week-15.jpg",
+  "submitted_at": "2026-09-07T23:52:11.800Z"
+}
