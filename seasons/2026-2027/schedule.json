@@ -3,29 +3,29 @@
     "week": 1,
     "date": "2026-09-09",
     "session": 1,
-    "status": "complete",
+    "status": "scheduled",
     "bye": "Old Pikes",
     "slots": [
       {
         "slot": "6:00 PM",
         "team1": "Bocce-Tuah",
         "team2": "John Does",
-        "approved": true,
-        "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2026-2027/scorecards/week-1.jpg"
+        "approved": false,
+        "scorecard_image_url": null
       },
       {
         "slot": "7:00 PM",
         "team1": "Strategic Miss Rolls",
         "team2": "Wu-Tang Balls",
-        "approved": true,
-        "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2026-2027/scorecards/week-1.jpg"
+        "approved": false,
+        "scorecard_image_url": null
       },
       {
         "slot": "8:00 PM",
         "team1": "New Kids on the Bocce",
         "team2": "DeBoccery",
-        "approved": true,
-        "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2026-2027/scorecards/week-1.jpg"
+        "approved": false,
+        "scorecard_image_url": null
       }
     ]
   },
