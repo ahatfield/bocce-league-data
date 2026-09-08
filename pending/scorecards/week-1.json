@@ -1,0 +1,23 @@
+{
+  "week": 1,
+  "date": "2026-09-09",
+  "matches": [
+    {
+      "slot": "6:00 PM",
+      "team1": "Bocce-Tuah",
+      "team2": "John Does"
+    },
+    {
+      "slot": "7:00 PM",
+      "team1": "Strategic Miss Rolls",
+      "team2": "Wu-Tang Balls"
+    },
+    {
+      "slot": "8:00 PM",
+      "team1": "New Kids on the Bocce",
+      "team2": "DeBoccery"
+    }
+  ],
+  "image_path": "pending/scorecards/week-1.jpg",
+  "submitted_at": "2026-09-08T15:59:00.453Z"
+}
