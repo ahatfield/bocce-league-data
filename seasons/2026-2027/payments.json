@@ -14,8 +14,8 @@
   {
     "team_id": "new-kids-on-the-bocce",
     "captain": "Joelle Sterbens",
-    "paid": false,
-    "paid_date": null
+    "paid": true,
+    "paid_date": "2026-09-09"
   },
   {
     "team_id": "bocce-tuah",
