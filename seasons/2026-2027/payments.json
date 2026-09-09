@@ -38,7 +38,7 @@
   {
     "team_id": "strategic-miss-rolls",
     "captain": "Mikayla Moore",
-    "paid": false,
-    "paid_date": null
+    "paid": true,
+    "paid_date": "2026-09-09"
   }
 ]
