@@ -2,8 +2,8 @@
   {
     "team_id": "deboccery",
     "captain": "Bill Schnitker",
-    "paid": false,
-    "paid_date": null
+    "paid": true,
+    "paid_date": "2026-09-10"
   },
   {
     "team_id": "wu-tang-balls",
