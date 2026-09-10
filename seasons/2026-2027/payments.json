@@ -26,8 +26,8 @@
   {
     "team_id": "john-does",
     "captain": "Aaron Stovall",
-    "paid": false,
-    "paid_date": null
+    "paid": true,
+    "paid_date": "2026-09-10"
   },
   {
     "team_id": "old-pikes",
