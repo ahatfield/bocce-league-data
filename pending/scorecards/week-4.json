@@ -1,0 +1,23 @@
+{
+  "week": 4,
+  "date": "2026-09-30",
+  "matches": [
+    {
+      "slot": "6:00 PM",
+      "team1": "New Kids on the Bocce",
+      "team2": "Strategic Miss Rolls"
+    },
+    {
+      "slot": "7:00 PM",
+      "team1": "DeBoccery",
+      "team2": "Old Pikes"
+    },
+    {
+      "slot": "8:00 PM",
+      "team1": "John Does",
+      "team2": "Wu-Tang Balls"
+    }
+  ],
+  "image_path": "pending/scorecards/week-4.jpg",
+  "submitted_at": "2026-10-01T01:53:55.317Z"
+}
