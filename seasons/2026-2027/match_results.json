@@ -298,5 +298,80 @@
     "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2026-2027/scorecards/week-4.jpg"
+  },
+  {
+    "week": 5,
+    "date": "2026-10-07",
+    "slot": "6:00 PM",
+    "team1": "DeBoccery",
+    "team2": "Bocce-Tuah",
+    "games": [
+      {
+        "team1_score": 7,
+        "team2_score": 5
+      },
+      {
+        "team1_score": 7,
+        "team2_score": 3
+      },
+      {
+        "team1_score": 7,
+        "team2_score": 4
+      }
+    ],
+    "team1_match_points": 4,
+    "team2_match_points": 0,
+    "split": false,
+    "scorecard_image_url": null
+  },
+  {
+    "week": 5,
+    "date": "2026-10-07",
+    "slot": "7:00 PM",
+    "team1": "John Does",
+    "team2": "Strategic Miss Rolls",
+    "games": [
+      {
+        "team1_score": 8,
+        "team2_score": 6
+      },
+      {
+        "team1_score": 7,
+        "team2_score": 5
+      },
+      {
+        "team1_score": 3,
+        "team2_score": 2
+      }
+    ],
+    "team1_match_points": 4,
+    "team2_match_points": 0,
+    "split": false,
+    "scorecard_image_url": null
+  },
+  {
+    "week": 5,
+    "date": "2026-10-07",
+    "slot": "8:00 PM",
+    "team1": "Wu-Tang Balls",
+    "team2": "Old Pikes",
+    "games": [
+      {
+        "team1_score": 2,
+        "team2_score": 7
+      },
+      {
+        "team1_score": 6,
+        "team2_score": 8
+      },
+      {
+        "team1_score": 4,
+        "team2_score": 7
+      }
+    ],
+    "team1_match_points": 0,
+    "team2_match_points": 4,
+    "split": false,
+    "scorecard_image_url": null
   }
 ]
