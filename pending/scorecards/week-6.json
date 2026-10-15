@@ -1,0 +1,23 @@
+{
+  "week": 6,
+  "date": "2026-10-14",
+  "matches": [
+    {
+      "slot": "6:00 PM",
+      "team1": "Old Pikes",
+      "team2": "John Does"
+    },
+    {
+      "slot": "7:00 PM",
+      "team1": "Bocce-Tuah",
+      "team2": "New Kids on the Bocce"
+    },
+    {
+      "slot": "8:00 PM",
+      "team1": "Strategic Miss Rolls",
+      "team2": "DeBoccery"
+    }
+  ],
+  "image_path": "pending/scorecards/week-6.jpg",
+  "submitted_at": "2026-10-15T02:00:13.757Z"
+}
