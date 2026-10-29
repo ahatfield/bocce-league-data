@@ -523,5 +523,80 @@
     "team2_match_points": 3,
     "split": false,
     "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2026-2027/scorecards/week-7.jpg"
+  },
+  {
+    "week": 8,
+    "date": "2026-10-28",
+    "slot": "6:00 PM",
+    "team1": "Wu-Tang Balls",
+    "team2": "New Kids on the Bocce",
+    "games": [
+      {
+        "team1_score": 3,
+        "team2_score": 7
+      },
+      {
+        "team1_score": 4,
+        "team2_score": 7
+      },
+      {
+        "team1_score": 4,
+        "team2_score": 7
+      }
+    ],
+    "team1_match_points": 0,
+    "team2_match_points": 4,
+    "split": false,
+    "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2026-2027/scorecards/week-8.jpg"
+  },
+  {
+    "week": 8,
+    "date": "2026-10-28",
+    "slot": "7:00 PM",
+    "team1": "Strategic Miss Rolls",
+    "team2": "DeBoccery",
+    "games": [
+      {
+        "team1_score": 3,
+        "team2_score": 7
+      },
+      {
+        "team1_score": 7,
+        "team2_score": 1
+      },
+      {
+        "team1_score": 0,
+        "team2_score": 7
+      }
+    ],
+    "team1_match_points": 1,
+    "team2_match_points": 3,
+    "split": false,
+    "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2026-2027/scorecards/week-8.jpg"
+  },
+  {
+    "week": 8,
+    "date": "2026-10-28",
+    "slot": "8:00 PM",
+    "team1": "John Does",
+    "team2": "Old Pikes",
+    "games": [
+      {
+        "team1_score": 5,
+        "team2_score": 7
+      },
+      {
+        "team1_score": 7,
+        "team2_score": 0
+      },
+      {
+        "team1_score": 7,
+        "team2_score": 4
+      }
+    ],
+    "team1_match_points": 3,
+    "team2_match_points": 1,
+    "split": false,
+    "scorecard_image_url": "https://raw.githubusercontent.com/ahatfield/bocce-league-data/main/seasons/2026-2027/scorecards/week-8.jpg"
   }
 ]
