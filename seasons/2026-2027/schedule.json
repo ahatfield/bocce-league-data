@@ -303,28 +303,28 @@
     "week": 11,
     "date": "2026-11-18",
     "session": 1,
-    "status": "scheduled",
+    "status": "complete",
     "bye": "DeBoccery",
     "slots": [
       {
         "slot": "6:00 PM",
         "team1": "John Does",
         "team2": "Strategic Miss Rolls",
-        "approved": false,
+        "approved": true,
         "scorecard_image_url": null
       },
       {
         "slot": "7:00 PM",
         "team1": "Bocce-Tuah",
         "team2": "Wu-Tang Balls",
-        "approved": false,
+        "approved": true,
         "scorecard_image_url": null
       },
       {
         "slot": "8:00 PM",
         "team1": "Old Pikes",
         "team2": "New Kids on the Bocce",
-        "approved": false,
+        "approved": true,
         "scorecard_image_url": null
       }
     ]
