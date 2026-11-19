@@ -748,5 +748,80 @@
     "team2_match_points": 1,
     "split": false,
     "scorecard_image_url": null
+  },
+  {
+    "week": 11,
+    "date": "2026-11-18",
+    "slot": "6:00 PM",
+    "team1": "John Does",
+    "team2": "Strategic Miss Rolls",
+    "games": [
+      {
+        "team1_score": 4,
+        "team2_score": 7
+      },
+      {
+        "team1_score": 7,
+        "team2_score": 3
+      },
+      {
+        "team1_score": 0,
+        "team2_score": 8
+      }
+    ],
+    "team1_match_points": 1,
+    "team2_match_points": 3,
+    "split": false,
+    "scorecard_image_url": null
+  },
+  {
+    "week": 11,
+    "date": "2026-11-18",
+    "slot": "7:00 PM",
+    "team1": "Bocce-Tuah",
+    "team2": "Wu-Tang Balls",
+    "games": [
+      {
+        "team1_score": 8,
+        "team2_score": 6
+      },
+      {
+        "team1_score": 8,
+        "team2_score": 10
+      },
+      {
+        "team1_score": 2,
+        "team2_score": 3
+      }
+    ],
+    "team1_match_points": 1,
+    "team2_match_points": 3,
+    "split": false,
+    "scorecard_image_url": null
+  },
+  {
+    "week": 11,
+    "date": "2026-11-18",
+    "slot": "8:00 PM",
+    "team1": "Old Pikes",
+    "team2": "New Kids on the Bocce",
+    "games": [
+      {
+        "team1_score": 7,
+        "team2_score": 9
+      },
+      {
+        "team1_score": 8,
+        "team2_score": 6
+      },
+      {
+        "team1_score": 4,
+        "team2_score": 7
+      }
+    ],
+    "team1_match_points": 1,
+    "team2_match_points": 3,
+    "split": false,
+    "scorecard_image_url": null
   }
 ]
